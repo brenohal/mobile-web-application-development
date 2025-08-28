@@ -1,0 +1,45 @@
+# LIS4368 Advanced Web Application Development
+
+## Brennan O'Halloran
+
+# LI4368 Requirements:
+
+
+*Course Work Links:*
+
+1. [A1 README.md](a1/README.md "My A1 README.md file")
+    - Screenshot of running java Hello.
+    - Screenshot of running http://localhost:9999.
+    - Screenshot of a1/index.jsp.
+    - git commands w/short descriptions.
+
+2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Assesssment links.
+    - Screenshots.
+    - Skillsets.
+    
+3. [A3 README.md](a3/README.md "My A3 README.md file")
+    - Screenshot of A3 ERD.
+    - Screeshot of 10 records per table.
+    - Slillsets.
+
+4. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Screenshot of failed validation.
+    - Screenshot of successful validation.
+    - Skillsets.
+    
+5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Screenshot of valid user entry
+    - Screenshot of passed validation 
+    - Screenshot of data entry
+    - Complete the required skillsets
+
+6.    [P1 README.md](p1/README.md "My P1 README.md file")
+    - Screen shot of failed validation.
+    - Screen shot of successful validation.
+    - Skillsets.
+    
+7. [P2 README.md](p2/README.md "My P2 README.md file")
+    - Install something
+    - Install something
+    
