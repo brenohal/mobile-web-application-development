@@ -1,5 +1,4 @@
-# LIS4368 Advanced Web Application Development
-
+# LIS4381 Mobile Web Application Development
 ## Brennan O'Halloran
 
 # Assignemnt 1 Requirements:
@@ -13,10 +12,10 @@ Three Parts:
 
 #### README.md file should include the following items:
 
+* Screenshot of Ampps   
 * Screenshot of running java Hello
-* Screenshot of running http://localhost:9999
+* Screenshot of running Andriod Studio first app
 * Git commands w/short descriptions
-* Screenshot of a1/index.jsp
 
 > #### Git commands w/short descriptions:
 
@@ -30,33 +29,14 @@ Three Parts:
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+*Screenshot of AMPPS running My PhP Installation*:
 
-![AMPPS Installation Screenshot](img/tomcat.png)
+![AMPPS Installation Screenshot](img/ampps.png)
 
 *Screenshot of running java Hello*:
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![JDK Installation Screenshot](img/java.png)
 
-*Screenshot of a1/index.jsp*:
+*Screenshot of Andriod Studion-My first app*:
 
-![a1/index.jsp Screenshot](img/index.png)
-
-*Screenshot of a1/index.jsp running*:
-
-![a1/index2.jsp Screenshot](img/index2.png)
-
-
-
-
-
-
-
-
-#### Tutorial Links:
-
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+![First App Screenshot](img/index.png)
