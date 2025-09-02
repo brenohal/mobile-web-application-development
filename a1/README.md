@@ -1,7 +1,7 @@
 # LIS4381 Mobile Web Application Development
 ## Brennan O'Halloran
 
-# Assignemnt 1 Requirements:
+# Assignement 1 Requirements:
 
 
 Three Parts:
@@ -39,4 +39,4 @@ Three Parts:
 
 *Screenshot of Andriod Studion-My first app*:
 
-![First App Screenshot](img/index.png)
+![First App Screenshot](img/app.png)
