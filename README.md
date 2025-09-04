@@ -1,8 +1,8 @@
-# LIS4368 Advanced Web Application Development
+# LIS4381 Mobile Web Application Development
 
 ## Brennan O'Halloran
 
-# LI4368 Requirements:
+# LI4381 Requirements:
 
 
 *Course Work Links:*
