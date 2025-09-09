@@ -22,11 +22,12 @@ Three Parts:
 
 *Screenshot of running application’s first user interface*:
 
-![First Interface](img/ss1.png)
+<img src="img/ss1.png" alt="First Interface" width="300"/>
 
 *Screenshot of running application’s second user interface*:
 
-![Second Interface](img/ss2.png)
+<img src="img/ss2.png" alt="Second Interface" width="300"/>
+
 
 
 
