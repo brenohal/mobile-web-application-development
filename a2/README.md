@@ -29,6 +29,11 @@ Three Parts:
 <img src="img/ss2.png" alt="Second Interface" width="300"/>
 
 
+| **Screenshot of running application’s first user interface*:    |  *Screenshot of running application’s second user interface*:   | 
+|------------|------------|------------|
+| ![First Interface](img/ss1.png)     | ![Second Interface](img/ss2.png) | 
+
+
 
 
 
