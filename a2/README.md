@@ -1,8 +1,8 @@
-# LIS4368 Advanced Web Application Development
+# LIS4381 Mobile Web Application Development
 
 ## Brennan O'Halloran
 
-# Assignemnt 2 Requirements:
+# Assignement 2 Requirements:
 
 
 Three Parts:
