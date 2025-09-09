@@ -22,7 +22,7 @@ Three Parts:
 
 *Screenshot of running application’s first user interface*:
 
-<img src="img/ss1.png" alt="First Interface" width="300"/>
+<img src="img/ss1.png" alt="First Interface" width="50%"/>
 
 *Screenshot of running application’s second user interface*:
 
