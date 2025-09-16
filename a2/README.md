@@ -26,6 +26,11 @@ Three Parts:
 | ![First Interface](img/ss1.png)     | ![Second Interface](img/ss2.png) | 
 
 
+| [Skillset 1](../skillsets/ss1_evenorodd/ "Open Skillset 1 folder") | [Skillset 2](../skillsets/ss2_largestnumber/ "Open Skillset 2 folder") | [Skillset 3](../skillsets/ss3_arrays_and_loops/ "Open Skillset 3 folder") |
+|------------|------------|------------|
+| ![Skillset one Screenshot](img/skill1.png) | ![Skillset two Screenshot](img/skill2.png) | ![Skillset three Screenshot](img/skill3.png) |
+
+
 
 
 
