@@ -5,17 +5,19 @@
 # Assignement 2 Requirements:
 
 
-Three Parts:
+Four Parts:
 
 1. Complete all necessary programming for the HealthyRecipies app
 2. Take a screenshot of the first page
 3. Take a screenshot of the second page
+4. Include Skillsets
 
 
 #### README.md file should include the following items:
 
 * Screenshot of running application’s first user interface
 * Screenshot of running application’s second user interface
+* Screenshots of each skillset
 
 
 #### Assignment Screenshots:

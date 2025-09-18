@@ -34,12 +34,4 @@ public class Methods {
     }
 
 
-
-
-    public static void EvenOrOdd() {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'EvenOrOdd'");
-    }
-
-
 }
