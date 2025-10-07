@@ -1,15 +1,16 @@
-# LIS4368 Advanced Web Application Development
+# LIS4381 Mobile Web Application Development
 
 ## Brennan O'Halloran
 
 # Assignemnt 3 Requirements:
 
 
-Three Parts:
+Four Parts:
 
 1. Entity Relationship Diagram (ERD)
 2. Include at least 10 records per table
 3. Complete the required skillsets
+4. Attach ERD and .SQL files
 
 
 
