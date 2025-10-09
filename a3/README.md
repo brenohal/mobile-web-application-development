@@ -5,7 +5,7 @@
 # Assignemnt 3 Requirements:
 
 
-Four Parts:
+Five Parts:
 
 1. Entity Relationship Diagram (ERD)
 2. Include at least 10 records per table
