@@ -19,7 +19,7 @@
     
 3. [A3 README.md](a3/README.md "My A3 README.md file")
     - Screenshot of A3 ERD.
-    - Screeshot of 10 records per table.
+    - Screeshot of android application.
     - Slillsets.
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")

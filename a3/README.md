@@ -11,18 +11,19 @@ Four Parts:
 2. Include at least 10 records per table
 3. Complete the required skillsets
 4. Attach ERD and .SQL files
+5. Complete and run the android application
 
 
 
 #### README.md file should include the following items:
-
- - Course title, your name, assignment requirements, as per A1;
- - Screenshot of ERD;
- - Screenshots of 10 records for each table—use select * from each table;
- - Screenshot of a3/index.jsp
- - Links to the following files:
- - a3.mwb
- - a3.sql
+- Course title, your name, assignment requirements, as per A1;
+- Screenshot of ERD;
+- Screenshot of running application’s opening user interface;
+- Screenshot of running application’s processing user input;
+- Screenshots of 10 records for each table—use select * from each table;
+- Links to the following files:
+- a3.mwb
+- a3.sql
 
 
 #### Assignment Screenshots:
@@ -52,7 +53,7 @@ Four Parts:
 
 | *Screenshot skillset 4*:    |  *Screenshot of skillset 5*:   | *Screenshot skillset 6*:  |
 |------------|------------|------------|
-| ![Skillset one Screenshot](img/q4.png)     | ![Skillset two Screenshot](img/q5.png) | ![Skillset three Screenshot](img/q6.png)|
+| ![Skillset one Screenshot](img/skill4.png)     | ![Skillset two Screenshot](img/skill5.png) | ![Skillset three Screenshot](img/skill6.png)|
 
 
 
