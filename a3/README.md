@@ -55,10 +55,9 @@ Four Parts:
 
 
 
-| *Screenshot skillset 4*:    |  *Screenshot of skillset 5*:   | *Screenshot skillset 6*:  |
+| [Skillset 4](../skillsets/ss4_Decision_Structures/ "Open Skillset 4 folder") | [Skillset 5](../skillsets/ss5_Random_Number_Generator/ "Open Skillset 5 folder") | [Skillset 6](../skillsets/ss6_Methods/ "Open Skillset 6 folder") |
 |------------|------------|------------|
-| ![Skillset one Screenshot](img/skill4.png)     | ![Skillset two Screenshot](img/skill5.png) | ![Skillset three Screenshot](img/skill6.png)|
-
+| ![Skillset four Screenshot](img/skill4.png) | ![Skillset five Screenshot](img/skill5.png) | ![Skillset six Screenshot](img/skill6.png) |
 
 
 
