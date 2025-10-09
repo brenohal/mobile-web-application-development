@@ -2,7 +2,7 @@
 
 ## Brennan O'Halloran
 
-# Assignemnt 3 Requirements:
+# Assignement 3 Requirements:
 
 
 Five Parts:
