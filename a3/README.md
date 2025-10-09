@@ -28,6 +28,10 @@ Four Parts:
 
 #### Assignment Screenshots:
 
+| **Screenshot of running application’s first user interface*:    |  *Screenshot of running application’s second user interface*:   | 
+|-------------------------------------|----------------------------------|
+| ![First Interface](img/concert1.png)     | ![Second Interface](img/ss2.png) | 
+
 *ERD Screenshot*:
 
 ![ERD Screenshot](img/erd.png)
