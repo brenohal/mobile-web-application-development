@@ -1,4 +1,4 @@
-# LIS4368 Advanced Web Application Development
+# LIS4381 Mobile Web Application Development
 
 ## Brennan O'Halloran
 
@@ -7,33 +7,26 @@
 
 Three Parts:
 
-1. Screenshot of failed validation on form
-2. Screenshot of successful validation on form
+1. Create the mobile web app
+2. Include screenshot/gif of mobile app
 3. Complete the required skillsets
 
 
-
 #### README.md file should include the following items:
-
- - Course title, your name, assignment requirements, as per A1;
- - Screenshot failed validation on form;
- - Screenshot of successful validation on form;
- - Screenshot of skillset 7, 8, and 9;
+- Course title, your name, assignment requirements, as per A1;
+- Screenshot of running application’s first user interface;
+- Screenshot of running application’s second user interface;
 
 #### Assignment Screenshots:
 
-*Successful Validation Screenshot*:
+| **Screenshot of running application’s user interface*:    |
+|-------------------------------------|
+| ![First Interface](img/appgif.gif)  
 
-![Successful validation Screenshot](img/working.png)
 
-*Failed Validation Screenshot*:
-
-![Failed Validation Screenshot](img/failed.png)
-
-| *Screenshot skillset 7*:    |  *Screenshot of skillset 8*:   | *Screenshot skillset 9*:  |
+| [Skillset 7](../skillsets/ss7_Random_Number_Generator_Data_Validation/ "Open Skillset 7 folder") | [Skillset 8](../skillsets/ss8_LargetThreeNumbers/ "Open Skillset 8 folder") | [Skillset 9](../skillsets/ss9_Array_Runtime_Data_Validation/ "Open Skillset 9 folder") |
 |------------|------------|------------|
-| ![Skillset one Screenshot](img/skill7.png)     | ![Skillset two Screenshot](img/skill8.png) | ![Skillset three Screenshot](img/skill9.png) |
-
+| ![Skillset seven Screenshot](img/skill7.png) | ![Skillset eight Screenshot](img/skill8.png) | ![Skillset nine Screenshot](img/skill9.png) |
 
 
 
