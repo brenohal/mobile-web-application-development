@@ -28,14 +28,15 @@
     - Skillsets.
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Screenshot of valid user entry
+    - Screenshot of passed validation 
+    - Screenshot of data entry
+    - Complete the required skillsets
+
+6.    [P1 README.md](p1/README.md "My P1 README.md file")
     - Screenshot Web application running
     - Screenshot skillsets completed
     - Assignment questions completed
-
-6.    [P1 README.md](p1/README.md "My P1 README.md file")
-    - Screen shot of failed validation.
-    - Screen shot of successful validation.
-    - Skillsets.
     
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - Install something
