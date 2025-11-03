@@ -38,6 +38,8 @@ Four Parts:
 
 ![Failed Validation Screenshot](img/failed.png)
 
+| [Skillset 10](../skillsets/ss10_ArrayList "Open Skillset 10 folder") | [Skillset 11](../skillsets/ss11_Alpha_Numeric_Special "Open Skillset 11 folder") | [Skillset 12](../skillsets/ss12_Temperature_Conversion "Open Skillset 12 folder") |
+
 | *Screenshot skillset 10*:    |  *Screenshot of skillset 11*:   | *Screenshot skillset 12*:  |
 |------------|------------|------------|
 | ![Skillset one Screenshot](img/ss10.png)     | ![Skillset two Screenshot](img/ss11.png) | ![Skillset three Screenshot](img/ss12.png) |
