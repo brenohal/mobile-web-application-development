@@ -23,9 +23,11 @@
     - Slillsets.
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Screenshot of home screen
     - Screenshot of failed validation.
     - Screenshot of successful validation.
     - Skillsets.
+    - Assignment questions completed
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - Screenshot of valid user entry
