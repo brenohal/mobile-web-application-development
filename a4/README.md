@@ -20,8 +20,15 @@ Four Parts:
  - Screenshot failed validation on form
  - Screenshot of successful validation on form
  - Screenshot of skillset 10, 11, and 12
+ - Link to local lis4381 web app: http://localhost/repos/lis4381_new/index.php
+
+
 
 #### Assignment Screenshots:
+
+*Home Page Screenshot*:
+
+![Home Page Screenshot](img/home.png)
 
 *Successful Validation Screenshot*:
 
