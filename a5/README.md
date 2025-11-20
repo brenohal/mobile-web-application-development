@@ -44,25 +44,32 @@ Five Parts:
 
 
 
-| *Screenshot skillset 13*:    |  *Screenshot of skillset 14a*:   | *Screenshot skillset 14b*:  |
-|------------|------------|------------|
-| ![Skillset one Screenshot](img/ss13.png)     | ![Skillset two Screenshot](img/add1.png) | ![Skillset three Screenshot](img/add2.png) |
 
 
+## Skillset 13 – Sphere Volume Calculator  
+[Skillset 13](../skillsets/ss13_Sphere_Volume_Calculator "Open Skillset 13 folder")
 
+| Screenshot |
+|-----------|
+| ![Skillset 13 Screenshot](img/ss13.png) |
 
-| *Screenshot skillset 15a*:    |  *Screenshot of skillset 15b*:   | 
-|------------|------------|------------|
-| ![Skillset one Screenshot](img/div1.png)     | ![Skillset two Screenshot](img/div2.png) |
+---
 
+## Skillset 14 – Simple Calculator  
+[Skillset 14](../skillsets/simple_calculator "Open Skillset 14 folder")
 
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
+| ![Skillset 14 Screenshot 1](img/add1.png) | ![Skillset 14 Screenshot 2](img/add2.png) |
 
-| [Skillset 13](../skillsets/ss13_Sphere_Volume_Calculator "Open Skillset 10 folder") | [Skillset 14](../skillsets/simple_calculator "Open Skillset 14 folder") | [Skillset 15](../skillsets/read_write_file "Open Skillset 15 folder") |
-|------------|------------|------------|
-| ![Skillset 14 Screenshot](img/ss13.png) | ![Skillset 14 Screenshot 1](img/add1.png) | ![Skillset 14 Screenshot 2](img/add2.png) |
+---
 
+## Skillset 15 – Read/Write File  
+[Skillset 15](../skillsets/read_write_file "Open Skillset 15 folder")
+
+| Screenshot 1 | Screenshot 2 |
+|--------------|--------------|
 | ![Skillset 15 Screenshot 1](img/div1.png) | ![Skillset 15 Screenshot 2](img/div2.png) |
-
 
 
 
