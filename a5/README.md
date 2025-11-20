@@ -62,6 +62,10 @@ Five Parts:
 |--------------|--------------|
 | ![Skillset 14 Screenshot 1](img/add1.png) | ![Skillset 14 Screenshot 2](img/add2.png) |
 
+| Screenshot 3 | Screenshot 4 |
+|--------------|--------------|
+| ![Skillset 15 Screenshot 1](img/div1.png) | ![Skillset 15 Screenshot 2](img/div2.png) |
+
 ---
 
 ## Skillset 15 – Read/Write File  
@@ -69,7 +73,7 @@ Five Parts:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Skillset 15 Screenshot 1](img/div1.png) | ![Skillset 15 Screenshot 2](img/div2.png) |
+| ![Skillset 15 Screenshot 1](img/write1.png) | ![Skillset 15 Screenshot 2](img/write2.png) |
 
 
 
