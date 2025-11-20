@@ -31,16 +31,39 @@ Five Parts:
 
 *Passed Validation Screenshot*:
 
-![Passed Validation Screenshot](img/valid.png)
+![Passed Validation Screenshot](img/passed.png)
 
-*Data Entry Screenshot*:
+*Failed User Entry Screenshot*:
 
-![Data Entry Screenshot](img/db.png)
+![Failed User Entry Screenshot](img/invalid.png)
+
+*Failed Validation Screenshot*:
+
+![Failed Validation Screenshot](img/error.png)
 
 
-| *Screenshot skillset 13*:    |  *Screenshot of skillset 14*:   | *Screenshot skillset 15*:  |
+
+
+| *Screenshot skillset 13*:    |  *Screenshot of skillset 14a*:   | *Screenshot skillset 14b*:  |
 |------------|------------|------------|
-| ![Skillset one Screenshot](img/ss13.png)     | ![Skillset two Screenshot](img/ss14.png) | ![Skillset three Screenshot](img/ss15.png) |
+| ![Skillset one Screenshot](img/ss13.png)     | ![Skillset two Screenshot](img/add1.png) | ![Skillset three Screenshot](img/add2.png) |
+
+
+
+
+| *Screenshot skillset 15a*:    |  *Screenshot of skillset 15b*:   | 
+|------------|------------|------------|
+| ![Skillset one Screenshot](img/div1.png)     | ![Skillset two Screenshot](img/div2.png) |
+
+
+
+| [Skillset 13](../skillsets/ss13_Sphere_Volume_Calculator "Open Skillset 10 folder") | [Skillset 14](../skillsets/simple_calculator "Open Skillset 14 folder") | [Skillset 15](../skillsets/read_write_file "Open Skillset 15 folder") |
+|------------|------------|------------|
+| ![Skillset 14 Screenshot](img/ss13.png) | ![Skillset 14 Screenshot 1](img/add1.png) | ![Skillset 14 Screenshot 2](img/add2.png) |
+
+| ![Skillset 15 Screenshot 1](img/div1.png) | ![Skillset 15 Screenshot 2](img/div2.png) |
+
+
 
 
 

@@ -7,20 +7,21 @@
 
 Four Parts:
 
-1. Create and edit servlets and JSP pages
-2. Screenshot of successful validation on form
-3. Screenshot of failed validation on form
-4. Complete the required skillsets
+1. Create and edit files for A5
+2. Screenshot of main page
+3. Screenshot of valid informaiton filled
+4. Screenshot of invalid information filled
+5. Screenshot of failed validation on form
+6. Screenshot of false 
+7. Complete the required skillsets
 
 
 
 #### README.md file should include the following items:
 
  - Course title, your name, assignment requirements, as per A1
- - Screenshot failed validation on form
- - Screenshot of successful validation on form
- - Screenshot of skillset 10, 11, and 12
- - Link to local lis4381 web app: http://localhost/repos/lis4381_new/index.php
+ - Screenshots as per below examples
+ - Link to local lis4381 web app: http://localhost/repos/lis4381
 
 
 
