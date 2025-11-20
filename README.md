@@ -30,9 +30,10 @@
     - Assignment questions completed
     
 5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Screenshot of invalid user entry
+    - Screenshot of invlaid validation 
     - Screenshot of valid user entry
-    - Screenshot of passed validation 
-    - Screenshot of data entry
+    - Screenshot of passed validation
     - Complete the required skillsets
 
 6.    [P1 README.md](p1/README.md "My P1 README.md file")
