@@ -42,6 +42,7 @@
     - Assignment questions completed
     
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - Install something
-    - Install something
+    - Screenshots of data editing
+    - Screenshots of data deletion
+    - Required assigment questions
     
