@@ -58,7 +58,7 @@ Five Parts:
 
 *RSS Feed Screenshot*:
 
-![RSS Feed Screenshot](img/delete.png)
+![RSS Feed Screenshot](img/rss.png)
 
 
 
