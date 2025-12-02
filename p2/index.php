@@ -16,7 +16,7 @@ $statement->execute();
 	<meta name="author" content="Brennan O'Halloran">
 	<link rel="icon" href="favicon.ico">
 
-		<title>LIS4381 - Assignment5</title>
+		<title>LIS4381 - Project 2</title>
 		<?php include_once("../css/include_css.php"); ?>
 </head>
 <body>
@@ -29,7 +29,8 @@ $statement->execute();
 							<?php include_once("global/header.php"); ?>	
 						</div>
 
-						<h2>Pet Stores</h2>
+						<h2>Basic server side validation</h2>
+						<h3>PHP server side validation, along with prepared statements to prevent SQL injection</h3>
 
 <a href="add_petstore.php">Add Pet Store</a>
 <br />

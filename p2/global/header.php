@@ -1,4 +1,4 @@
-<h1 class="nav-header">Assignment 5</h1>
+<h1 class="nav-header">Project 2</h1>
 
 <style>
 /* Match the navbar's navy/black theme */
