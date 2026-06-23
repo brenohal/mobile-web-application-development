@@ -3,7 +3,7 @@
 **Course:** LIS 4381 — Mobile Web Application Development | Florida State University  
 **Author:** Brennan O'Halloran  
 **Languages:** Java, JSP, PHP, HTML/CSS  
-**Tools:** Android Studio, Apache Tomcat, AMPPS, JDK, Bitbucket, Git
+**Tools:** Android Studio, Apache Tomcat, AMPPS, JDK, Git
 
 ---
 
