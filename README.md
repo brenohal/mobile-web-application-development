@@ -1,48 +1,68 @@
-# LIS4381 Mobile Web Application Development
+# Mobile Web Application Development
 
-## Brennan O'Halloran
+**Course:** LIS 4381 — Mobile Web Application Development | Florida State University  
+**Author:** Brennan O'Halloran  
+**Languages:** Java, JSP, PHP, HTML/CSS  
+**Tools:** Android Studio, Apache Tomcat, AMPPS, JDK, Bitbucket, Git
 
-# LI4381 Requirements:
+---
 
+## Overview
 
-*Course Work Links:*
+This repository contains coursework from LIS 4381: Mobile Web Application Development at Florida State University. Projects span both mobile-native development using Android Studio and mobile-optimized web applications using Java/JSP and PHP. The course emphasizes responsive design, mobile UI patterns, and cross-platform development considerations.
 
-1. [A1 README.md](a1/README.md "My A1 README.md file")
-    - Screenshot of ampps installation
-    - Screenshot of running java Hello.
-    - git commands w/short descriptions.
+---
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - Screenshot of first app page
-    - Screenshot of second app page
-    - Skillsets
-    
-3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - Screenshot of A3 ERD.
-    - Screeshot of android application.
-    - Slillsets.
+## Topics Covered
 
-4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - Screenshot of home screen
-    - Screenshot of failed validation.
-    - Screenshot of successful validation.
-    - Skillsets.
-    - Assignment questions completed
-    
-5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - Screenshot of invalid user entry
-    - Screenshot of invlaid validation 
-    - Screenshot of valid user entry
-    - Screenshot of passed validation
-    - Complete the required skillsets
+- Android application development with Android Studio
+- Mobile-first web design and responsive layouts
+- Java/JSP server-side development for mobile clients
+- PHP scripting and dynamic content generation
+- Mobile UI/UX principles and navigation patterns
+- Cross-platform compatibility considerations
+- Version control with Git and Bitbucket
 
-6.    [P1 README.md](p1/README.md "My P1 README.md file")
-    - Screenshot Web application running
-    - Screenshot skillsets completed
-    - Assignment questions completed
-    
-7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - Screenshots of data editing
-    - Screenshots of data deletion
-    - Required assigment questions
-    
+---
+
+## Project Highlights
+
+### Assignment 1 — Environment Setup
+Configured a full mobile development environment including JDK, Android Studio, Apache Tomcat, and AMPPS. Built and ran a first Android application, demonstrating end-to-end mobile development workflow.
+
+### Assignments 2–5
+Progressive projects building toward complete mobile applications:
+- Native Android app development (Java, Android SDK)
+- Mobile-optimized web applications using JSP
+- PHP-driven dynamic content for mobile browsers
+- Responsive layouts adapting to various screen sizes
+- Integration between mobile front-ends and server-side logic
+
+---
+
+## Repository Structure
+
+```
+/
+├── a1/     # Dev environment setup, first Android app, Java Hello World
+├── a2/     # Android UI components and layouts
+├── a3/     # Mobile web with JSP and PHP
+├── a4/     # Responsive design and mobile-first development
+├── a5/     # Advanced mobile features and API integration
+└── p1/     # Final project
+```
+
+---
+
+## Tech Stack
+
+| Tool | Purpose |
+|------|---------|
+| Java (JDK) | Core programming language |
+| Android Studio | Native Android app development |
+| JSP (JavaServer Pages) | Server-side mobile web pages |
+| PHP | Dynamic scripting and server-side logic |
+| Apache Tomcat | Java web application server |
+| AMPPS | Local development stack (Apache, MySQL, PHP) |
+| HTML / CSS | Front-end structure and responsive styling |
+| Git / Bitbucket | Version control |
