@@ -1,5 +1,3 @@
-<!-- Local review draft. Nothing here has been published to GitHub. -->
-
 # Mobile Web Applications
 
 **PHP · Java/JSP · Android · Responsive UI**
